@@ -1,4 +1,4 @@
-package com.mkyong.common;
+/*package com.xavien.main;
 
 import java.util.Date;
 
@@ -6,6 +6,8 @@ import org.quartz.JobDetail;
 import org.quartz.Scheduler;
 import org.quartz.SimpleTrigger;
 import org.quartz.impl.StdSchedulerFactory;
+
+import com.xavien.jobs.HelloJob;
 
 public class SimpleTriggerExample 
 {
@@ -29,3 +31,4 @@ public class SimpleTriggerExample
 
     }
 }
+*/
